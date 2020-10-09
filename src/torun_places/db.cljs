@@ -7,4 +7,4 @@
   (s/keys :req-un [::greeting]))
 
 ;; initial state of app-db
-(def app-db {:greeting "Hello Clojure in iOS and Android!"})
+(def app-db {:greeting "5 the best places in Toruń"})
